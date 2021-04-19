@@ -1,0 +1,8 @@
+.widgets {
+  flex: 0.33;
+  object-fit: contain;
+}
+
+.widgets > iframe {
+  margin-right: 10%;
+}
